@@ -1,4 +1,3 @@
-
 # 🌐 My Static Website – Hosted on GitHub Pages
 
 This is a simple static website hosted using **GitHub Pages**.  
